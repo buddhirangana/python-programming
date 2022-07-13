@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+<motorvehicles>
+	<vehicle type="car">
+		<registration_no>CBB1456</registration_no>
+		<make>Toyota</make>
+		<model>Premio</model>
+	</vehicle>
+	<vehicle type="van">
+		<registration_no>PR2245</registration_no>
+		<make>Mazda</make>
+		<model>Bongo</model>
+	</vehicle>
+</motorvehicles>
